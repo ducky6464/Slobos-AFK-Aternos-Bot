@@ -2,11 +2,11 @@
   "name": "Wemmbu",
   "bot-account": {
     "username": "Slobot00",
-    "password": "ataullah",
+    "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "UnStableSMP-Wemmbo.aternos.me:43130",
+    "ip": "UnStableSMP-Wemmbo.aternos.me",
     "port": 43130,
     "version": "",
     "try-creative": false
