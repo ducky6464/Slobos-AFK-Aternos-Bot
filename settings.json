@@ -1,9 +1,9 @@
 {
-  "name": "Wemmbu",
+  "name": "Wemmbu_YT",
   "bot-account": {
     "username": "Slobot00",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "UnStableSMP-Wemmbo.aternos.me",
